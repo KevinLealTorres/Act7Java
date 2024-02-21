@@ -5,7 +5,7 @@
 
 ## Reporte
 
-![Esta es una imagen](img/Captura1.png)
+![Esta es una imagen](./src/img/Captura1.png)
 
-![Esta es otra imagen](img/Captura2.png)
+![Esta es otra imagen](./src/img/Captura2.png)
 
